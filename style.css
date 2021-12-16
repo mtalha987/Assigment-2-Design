@@ -1,0 +1,198 @@
+.input1st{
+    padding: 8px;
+}
+.inputSearch{
+    margin-left: 13%;
+    padding: 10px;
+}
+
+.searchIcon{
+    margin-left: -24px;
+    /* height: 20px; */
+    
+}
+
+.listIcon{
+    margin-left: 80%;
+    height: 24px;
+}
+header{
+    background-image: url(./images/header.jpg);
+}
+.heading,.text1,.text2,.field{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 400;
+    margin: auto;
+    text-align: center;
+}
+.heading{
+    font-size: 4.0rem;
+    width: 55%;
+    padding-top: 88px;
+    line-height: 1.2em;
+}
+.text1{
+    width: 40%;
+    padding-top: 34px;
+    font-size: 1.4rem;
+}
+.text2{
+    padding-top: 34px;
+}
+.inputHeader{
+    font-size: 1.4rem;
+    padding: 10px 12px;
+}
+.field{
+    margin-top: 48px;
+}
+.contact{
+    font-size: 1.4rem;
+    padding: 10px 40px;
+    letter-spacing:1px;
+    font-weight: 600;
+    border:solid 1px #1281E8;
+    margin-left: -4px;
+    background-color: #1281E8;
+}
+.lasticon{
+    width:34px;
+    color: white;
+    margin-left: 15px;
+    /* background-color: white; */
+}
+.headericon{
+    margin: auto;
+    width: 18%;
+    margin-top: 62px;
+    padding-bottom: 80px;
+}
+.section2{
+    width: 40%;
+    margin: auto;
+    margin-top: 82px;
+    /* position: relative; */
+    text-align: center;
+    padding-bottom: 100px;
+}
+a{
+    color: #1281e8;
+}
+.section2Images{
+    width: 60%;
+}
+.leftPic{
+    width: 247px;
+    height: 255px;
+    /* position: relative; */
+    
+}
+.rightPic{
+    width: 247px;
+    height: 255px;
+    position: absolute;
+    margin-left: 94px;
+    margin-top: 48px;
+}
+.section2Text1{
+    margin-top: 90px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    line-height: 1.2;
+    font-weight: 500;
+    color: #1281e8;
+}
+.section2Text2{
+    font-size: 3rem;
+}
+.section2Text3{
+    font-size: 1.25rem;
+    line-height: 1.6;
+}
+.section2button{
+    color: white;
+    background-color: #1281e8 ;
+    font-size: 1.125rem;
+    padding: 14px 42px 15px 41px;
+    border-radius: 11px;
+}
+/* Section 3 CSS */
+.section3{
+    padding-top:50px;
+    margin: 0px;
+    /* padding: 0px; */
+    width: 100%;
+    background-color: #f2f2f2
+}
+.section3left{
+    background-color: #1281e8;
+    width: 25%;
+    text-align: center;
+    display:inline-block ;
+    color: white;
+    margin-left: 11%;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+
+.section3Heading{
+    font-size: 2.4rem;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.section3left >img {
+
+    width: 68px;
+
+}
+.section3left>h2,.section3Center>h2,.section3Right>h2,.section3LeftBottom>h2,.section3CenterButton>h2,.section3Right>h2{
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+.section3left>p,.section3Center>p,.section3Right>p,.section3LeftBottom>p,.section3CenterButton>p,.section3Right>p{
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+.section3Center{
+    width: 25%;
+    text-align: center;  
+    display:inline-block;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    
+}
+.section3Right{
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    background-color: #1281e8;
+    color: white;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+.section3LeftBottom{
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    margin-left: 11%;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+.section3CenterBottom{
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    background-color: white;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+.section3RightBottom{
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
